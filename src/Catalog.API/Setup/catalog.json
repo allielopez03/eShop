@@ -806,5 +806,29 @@
     "Name": "Trek Xtreme Hiking Shoes",
     "Description": "The Trek Xtreme hiking shoes by Raptor Elite are built to endure any trail. With their durable leather upper and rugged rubber sole, they offer excellent traction and protection. These shoes come in a timeless brown color that adds a touch of style to your outdoor adventures.",
     "Price": 135.99
+  },
+  {
+    "Id": 102,
+    "Type": "Perfume",
+    "Brand": "Victoria's Secret",
+    "Name": "Bubbly",
+    "Description": "A pink perfume with a fresh and clean scent, labeled as 'Bubbly.'",
+    "Price": 20.00
+  },
+  {
+    "Id": 103,
+    "Type": "Set",
+    "Brand": "Victoria's Secret - Pink",
+    "Name": "Tease Collection",
+    "Description": "A luxurious set from the Victoria's Secret Tease collection, including perfume, lotion, and more.",
+    "Price": 70.00
+  },
+  {
+    "Id": 103,
+    "Type": "Pajamas",
+    "Brand": "Victoria's Secret - Pink",
+    "Name": "Secret Satin",
+    "Description": "A pink pajama set that contain the famous stripes.",
+    "Price": 70.00
   }
 ]
