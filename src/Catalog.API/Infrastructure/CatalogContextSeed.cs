@@ -53,6 +53,7 @@ public partial class CatalogContextSeed(
                 MaxStockThreshold = 200,
                 RestockThreshold = 10,
                 PictureFileName = $"{source.Id}.webp",
+                Gender = source.Gender
             }).ToArray();
 
             if (catalogAI.IsEnabled)

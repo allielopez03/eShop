@@ -6,6 +6,7 @@ public record CatalogItem(
     string Description,
     decimal Price,
     string PictureUrl,
+    string Gender,
     int CatalogBrandId,
     CatalogBrand CatalogBrand,
     int CatalogTypeId,
@@ -14,3 +15,5 @@ public record CatalogItem(
 public record CatalogResult(int PageIndex, int PageSize, int Count, List<CatalogItem> Data);
 public record CatalogBrand(int Id, string Brand);
 public record CatalogItemType(int Id, string Type);
+
+
