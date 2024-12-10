@@ -25,6 +25,9 @@ public class CatalogItem
 
     public CatalogBrand CatalogBrand { get; set; }
 
+    public int CatalogGenderId { get; set; }
+    public CatalogGender CatalogGender { get; set; }
+
     // Quantity in stock
     public int AvailableStock { get; set; }
 
