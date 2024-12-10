@@ -271,7 +271,7 @@ public static class CatalogApi
             AvailableStock = product.AvailableStock,
             RestockThreshold = product.RestockThreshold,
             MaxStockThreshold = product.MaxStockThreshold,
-            CatalogGenderId = product.CatalogGenderId
+            CatalogGender = product.CatalogGender
         };
         item.Embedding = await services.CatalogAI.GetEmbeddingAsync(item);
 
