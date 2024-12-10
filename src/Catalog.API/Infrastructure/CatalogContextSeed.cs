@@ -47,13 +47,13 @@ public partial class CatalogContextSeed(
                 Name = source.Name,
                 Description = source.Description,
                 Price = source.Price,
+                Gender = source.Gender,
                 CatalogBrandId = brandIdsByName[source.Brand],
                 CatalogTypeId = typeIdsByName[source.Type],
                 AvailableStock = 100,
                 MaxStockThreshold = 200,
                 RestockThreshold = 10,
                 PictureFileName = $"{source.Id}.webp",
-                Gender = source.Gender
             }).ToArray();
 
             if (catalogAI.IsEnabled)
