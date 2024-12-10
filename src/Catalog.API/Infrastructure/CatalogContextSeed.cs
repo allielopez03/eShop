@@ -79,7 +79,6 @@ public partial class CatalogContextSeed(
         public string Name { get; set; }
         public string Description { get; set; }
         public decimal Price { get; set; }
-
-        public String Gender { get; set; } //added
+        public string Gender { get; set; } //added
     }
 }
