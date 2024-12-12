@@ -3,7 +3,7 @@
     "Id": 100,
     "Type": "Perfume",
     "Brand": "Victoria Secret",
-    "Gender": "Female",
+    "Gender": " Gender: Female",
     "Name": "Bare Vanilla",
     "Description": "A commonly popular regular for all ocasions.",
     "Price": 35.99
@@ -12,7 +12,7 @@
     "Id": 101,
     "Type": "Perfume",
     "Brand": "Victoria Secret",
-    "Gender": "Female",
+    "Gender": " Gender: Female",
     "Name": "Coconut",
     "Description": "a tropical scent to uplift your mood.",
     "Price": 30.99
@@ -21,7 +21,7 @@
     "Id": 102,
     "Type": "Perfume",
     "Brand": "Victoria's Secret",
-    "Gender": "Female",
+    "Gender": " Gender: Female",
     "Name": "Bubbly",
     "Description": "A pink perfume with a fresh and clean scent, labeled as 'Bubbly.'",
     "Price": 20.00
@@ -30,7 +30,7 @@
     "Id": 103,
     "Type": "Set",
     "Brand": "Victoria's Secret - Pink",
-    "Gender": "Female",
+    "Gender": " Gender: Female",
     "Name": "Tease Collection",
     "Description": "A luxurious set from the Victoria's Secret Tease collection, including perfume, lotion, and more.",
     "Price": 70.00
@@ -39,7 +39,7 @@
     "Id": 104,
     "Type": "Pajamas",
     "Brand": "Victoria's Secret - Pink",
-    "Gender": "Female",
+    "Gender": " Gender: Female",
     "Name": "Secret Satin",
     "Description": "A pink pajama set that contain the famous stripes.",
     "Price": 120.00
@@ -48,7 +48,7 @@
     "Id": 105,
     "Type": "Perfume",
     "Brand": "Victoria's Secret",
-    "Gender": "Female",
+    "Gender": " Gender: Female",
     "Name": "Bomb Shell",
     "Description": "A new scent that is considered luxerious.",
     "Price": 120.00
@@ -57,7 +57,7 @@
     "Id": 106,
     "Type": "Set",
     "Brand": "Victoria Secret",
-    "Gender": "Female",
+    "Gender": " Gender: Female",
     "Name": "First Love",
     "Description": "A set of perfume and lotion labled as first love.",
     "Price": 80.00
@@ -66,7 +66,7 @@
     "Id": 107,
     "Type": "Set",
     "Brand": "Victoria Secret",
-    "Gender": "Female",
+    "Gender": " Gender: Female",
     "Name": "Pure Seduction Radiant",
     "Description": "A tropical scent that enhances your radiant.",
     "Price": 75.00
@@ -75,7 +75,7 @@
     "Id": 108,
     "Type": "Set",
     "Brand": "Victoria Secret",
-    "Gender": "Female",
+    "Gender": " Gender: Female",
     "Name": "A mixture set of Bare, Tease, and Bombshell.",
     "Description": "A set of each collection brand to have bigger set.",
     "Price": 85.00
@@ -84,7 +84,7 @@
     "Id": 109,
     "Type": "Pajamas",
     "Brand": "Victoria Secret",
-    "Gender": "Female",
+    "Gender": " Gender: Female",
     "Name": "Black Satin Pajamas",
     "Description": "A comfy, black satin set of pajamas to relax in.",
     "Price": 90.00
@@ -93,7 +93,7 @@
     "Id": 110,
     "Type": "Pajamas",
     "Brand": "Victoria Secret",
-    "Gender": "Female",
+    "Gender": " Gender: Female",
     "Name": "Red Satin Pajamas",
     "Description": "A comfy, red satin set of pajamas to relax in.",
     "Price": 90.00
@@ -102,7 +102,7 @@
     "Id": 111,
     "Type": "Pajamas",
     "Brand": "Victoria Secret",
-    "Gender": "Female",
+    "Gender": " Gender: Female",
     "Name": "Christmas Satin Pajamas",
     "Description": "A comfy, plaid satin set of pajamas to relax in and feel the christmas spirit.",
     "Price": 90.00
@@ -111,7 +111,7 @@
     "Id": 112,
     "Type": "Set",
     "Brand": "Victoria Secret",
-    "Gender": "Female",
+    "Gender": " Gender: Female",
     "Name": "Night Kit",
     "Description": "A cute comfy kit to help with skincare night routine",
     "Price": 45.00
@@ -120,7 +120,7 @@
     "Id": 113,
     "Type": "Perfume",
     "Brand": "Victoria Secret",
-    "Gender": "Female",
+    "Gender": " Gender: Female",
     "Name": "Fancy Collection",
     "Description": "An adorable collection of the top popular perfumes.",
     "Price": 55.00
@@ -129,7 +129,7 @@
     "Id": 114,
     "Type": "Set",
     "Brand": "Victoria Secret",
-    "Gender": "Female",
+    "Gender": " Gender: Female",
     "Name": "Pink set ",
     "Description": "A set for all aspects of a person who needs and wants to smell like one great scent.",
     "Price": 55.00
@@ -138,7 +138,7 @@
     "Id": 115,
     "Type": "Pajamas",
     "Brand": "Victoria Secret",
-    "Gender": "Female",
+    "Gender": " Gender: Female",
     "Name": "Casual yet silky and clean.",
     "Description": "A set of pajamas for a regular night in. ",
     "Price": 59.00
