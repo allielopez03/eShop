@@ -106,5 +106,41 @@
     "Name": "Christmas Satin Pajamas",
     "Description": "A comfy, plaid satin set of pajamas to relax in and feel the christmas spirit.",
     "Price": 90.00
+  },
+  {
+    "Id": 112,
+    "Type": "Set",
+    "Brand": "Victoria Secret",
+    "Gender": "Female",
+    "Name": "Night Kit",
+    "Description": "A cute comfy kit to help with skincare night routine",
+    "Price": 45.00
+  },
+  {
+    "Id": 113,
+    "Type": "Perfume",
+    "Brand": "Victoria Secret",
+    "Gender": "Female",
+    "Name": "Fancy Collection",
+    "Description": "An adorable collection of the top popular perfumes.",
+    "Price": 55.00
+  },
+  {
+    "Id": 114,
+    "Type": "Set",
+    "Brand": "Victoria Secret",
+    "Gender": "Female",
+    "Name": "Pink set ",
+    "Description": "A set for all aspects of a person who needs and wants to smell like one great scent.",
+    "Price": 55.00
+  },
+  {
+    "Id": 115,
+    "Type": "Pajamas",
+    "Brand": "Victoria Secret",
+    "Gender": "Female",
+    "Name": "Casual yet silky and clean.",
+    "Description": "A set of pajamas for a regular night in. ",
+    "Price": 59.00
   }
 ]
